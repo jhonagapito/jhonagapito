@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonagapito
 - 👀 I’m interested in Front-End Frameworks, NodeJS, GraphQL
-- 🌱 I’m currently learning NodeJS, React
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Pet Projects written in React
 - 📫 You can reach me here in Github
 
